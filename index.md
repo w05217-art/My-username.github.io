@@ -48,9 +48,9 @@ when $X$ is an algebraic curve.
 
 ## Service
 
-#### Organizer 
+<!-- #### Organizer 
 - Student Combinatorics Seminar, University of Washington
-- Directed Reading Program
+- Directed Reading Program -->
 
 #### Journal Reviewer
 - INTEGERS
