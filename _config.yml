@@ -8,8 +8,8 @@
 ############################
 
 # Basic Information 
-title: Gary Fishman
-position: Ph.D. Student
+title: Yi-Xian, Chen
+position: Researsh Assistant
 affiliation: National Taiwan University<br>國立台灣大學
 affiliation_link: https://www.math.ntu.edu.tw/
 email: fishman (at) university.edu
@@ -20,11 +20,11 @@ avatar: ./assets/img/profile_alt.jpg
 
 # Sidebar Links 
 # For those you don't need, delete or comment out the corresponding line.
-cv_link: assets/files/shinchan_sample_cv.pdf
+# cv_link: assets/files/shinchan_sample_cv.pdf
 arxiv: https://arxiv.org/a/0000-0002-0101-0521
-google_scholar: https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate
-math_overflow: https://mathoverflow.net/users/81295/harry-richman
-github_link: https://github.com/harryrichman
+# google_scholar: https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate
+# math_overflow: https://mathoverflow.net/users/81295/harry-richman
+github_link: https://github.com/w05217-art
 # linkedin: https://www.linkedin.com/in/harry-richman/
 # orcid: https://orcid.org/0000-0002-0101-0521
 
